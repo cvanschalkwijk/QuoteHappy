@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.indoclay.quotehappy",
+               "sha256_cert_fingerprints": ["F5:08:9F:8A:D4:C8:4A:15:6D:0A:B1:3F:61:96:BE:C7:87:8C:DE:05:59:92:B2:A3:2D:05:05:A5:62:A5:2F:34"] }
+}]
