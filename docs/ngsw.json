@@ -1,19 +1,19 @@
 {
   "configVersion": 1,
-  "index": "https://cvanschalkwijk.github.io/QuoteHappy/index.html",
+  "index": "/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "https://cvanschalkwijk.github.io/QuoteHappy/es2015-polyfills.4a4cfea0ce682043f4e9.js",
-        "https://cvanschalkwijk.github.io/QuoteHappy/favicon.ico",
-        "https://cvanschalkwijk.github.io/QuoteHappy/index.html",
-        "https://cvanschalkwijk.github.io/QuoteHappy/main.5291fd6175be96dc1d79.js",
-        "https://cvanschalkwijk.github.io/QuoteHappy/polyfills.407a467dedb63cfdd103.js",
-        "https://cvanschalkwijk.github.io/QuoteHappy/runtime.a5dd35324ddfd942bef1.js",
-        "https://cvanschalkwijk.github.io/QuoteHappy/styles.0fa51597de59ad2ceddb.css"
+        "/es2015-polyfills.4a4cfea0ce682043f4e9.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.5291fd6175be96dc1d79.js",
+        "/polyfills.407a467dedb63cfdd103.js",
+        "/runtime.a5dd35324ddfd942bef1.js",
+        "/styles.0fa51597de59ad2ceddb.css"
       ],
       "patterns": []
     },
@@ -22,39 +22,39 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "https://cvanschalkwijk.github.io/QuoteHappy/assets/icons/icon-128x128.png",
-        "https://cvanschalkwijk.github.io/QuoteHappy/assets/icons/icon-144x144.png",
-        "https://cvanschalkwijk.github.io/QuoteHappy/assets/icons/icon-152x152.png",
-        "https://cvanschalkwijk.github.io/QuoteHappy/assets/icons/icon-192x192.png",
-        "https://cvanschalkwijk.github.io/QuoteHappy/assets/icons/icon-384x384.png",
-        "https://cvanschalkwijk.github.io/QuoteHappy/assets/icons/icon-512x512.png",
-        "https://cvanschalkwijk.github.io/QuoteHappy/assets/icons/icon-72x72.png",
-        "https://cvanschalkwijk.github.io/QuoteHappy/assets/icons/icon-96x96.png",
-        "https://cvanschalkwijk.github.io/QuoteHappy/assets/quotehappylight.png",
-        "https://cvanschalkwijk.github.io/QuoteHappy/assets/swipe.svg"
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/quotehappylight.png",
+        "/assets/swipe.svg"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://cvanschalkwijk.github.io/QuoteHappy/assets/icons/icon-128x128.png": "e5bed57aea510a955e3a6811c6c1176c3ad0efa9",
-    "https://cvanschalkwijk.github.io/QuoteHappy/assets/icons/icon-144x144.png": "841bc6231a85b2c5e5be84a47cd585458ebd5229",
-    "https://cvanschalkwijk.github.io/QuoteHappy/assets/icons/icon-152x152.png": "45371193d92633cb77415f0648aaf5c62d01f26f",
-    "https://cvanschalkwijk.github.io/QuoteHappy/assets/icons/icon-192x192.png": "63a2dc06b0bea6c943e9f5f2cf65ad7a32968613",
-    "https://cvanschalkwijk.github.io/QuoteHappy/assets/icons/icon-384x384.png": "982fb5ccf9e55ea78b1aeba99fefceb2b5f36bbd",
-    "https://cvanschalkwijk.github.io/QuoteHappy/assets/icons/icon-512x512.png": "9ed196976d9226ca71744c94500db0589b9483e6",
-    "https://cvanschalkwijk.github.io/QuoteHappy/assets/icons/icon-72x72.png": "b210ba583ace878372838258fab8bf1fa5b89b42",
-    "https://cvanschalkwijk.github.io/QuoteHappy/assets/icons/icon-96x96.png": "0d5ff9aa8ce7e7a0917312793a96faf94ae0b2ca",
-    "https://cvanschalkwijk.github.io/QuoteHappy/assets/quotehappylight.png": "a1dfdb815e3218f7b662783c802cb9b0fbeb528e",
-    "https://cvanschalkwijk.github.io/QuoteHappy/assets/swipe.svg": "c93baff66edab56a59a9d557e057c9f1a847b553",
-    "https://cvanschalkwijk.github.io/QuoteHappy/es2015-polyfills.4a4cfea0ce682043f4e9.js": "b7a81c61d32b0b12737f0c13f45973ba391cd7f9",
-    "https://cvanschalkwijk.github.io/QuoteHappy/favicon.ico": "4f02cc4799c9d3adc70f6cc535f2b8ed4bc48320",
-    "https://cvanschalkwijk.github.io/QuoteHappy/index.html": "7797311bf9442472eaf3dae531a302ea05012d10",
-    "https://cvanschalkwijk.github.io/QuoteHappy/main.5291fd6175be96dc1d79.js": "ee75b4328867eb83bab7eca6b14adbc4e6c59811",
-    "https://cvanschalkwijk.github.io/QuoteHappy/polyfills.407a467dedb63cfdd103.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
-    "https://cvanschalkwijk.github.io/QuoteHappy/runtime.a5dd35324ddfd942bef1.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
-    "https://cvanschalkwijk.github.io/QuoteHappy/styles.0fa51597de59ad2ceddb.css": "a38b31da7c0e9dc86d988584b193368a40524960"
+    "/assets/icons/icon-128x128.png": "e5bed57aea510a955e3a6811c6c1176c3ad0efa9",
+    "/assets/icons/icon-144x144.png": "841bc6231a85b2c5e5be84a47cd585458ebd5229",
+    "/assets/icons/icon-152x152.png": "45371193d92633cb77415f0648aaf5c62d01f26f",
+    "/assets/icons/icon-192x192.png": "63a2dc06b0bea6c943e9f5f2cf65ad7a32968613",
+    "/assets/icons/icon-384x384.png": "982fb5ccf9e55ea78b1aeba99fefceb2b5f36bbd",
+    "/assets/icons/icon-512x512.png": "9ed196976d9226ca71744c94500db0589b9483e6",
+    "/assets/icons/icon-72x72.png": "b210ba583ace878372838258fab8bf1fa5b89b42",
+    "/assets/icons/icon-96x96.png": "0d5ff9aa8ce7e7a0917312793a96faf94ae0b2ca",
+    "/assets/quotehappylight.png": "a1dfdb815e3218f7b662783c802cb9b0fbeb528e",
+    "/assets/swipe.svg": "c93baff66edab56a59a9d557e057c9f1a847b553",
+    "/es2015-polyfills.4a4cfea0ce682043f4e9.js": "b7a81c61d32b0b12737f0c13f45973ba391cd7f9",
+    "/favicon.ico": "4f02cc4799c9d3adc70f6cc535f2b8ed4bc48320",
+    "/index.html": "f03a4fd42b83966ed5795f685d9b5c149a084750",
+    "/main.5291fd6175be96dc1d79.js": "ee75b4328867eb83bab7eca6b14adbc4e6c59811",
+    "/polyfills.407a467dedb63cfdd103.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
+    "/runtime.a5dd35324ddfd942bef1.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/styles.0fa51597de59ad2ceddb.css": "a38b31da7c0e9dc86d988584b193368a40524960"
   },
   "navigationUrls": [
     {

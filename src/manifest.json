@@ -6,7 +6,7 @@
   "display": "standalone",
 	"orientation": "portrait-primary",
   "scope": "/",
-  "start_url": "https://cvanschalkwijk.github.io/QuoteHappy/",
+  "start_url": "/",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
