@@ -9,6 +9,6 @@
   "target" : { 
     "namespace": "android_app",
     "package_name": "com.indoclay.quotehappy",
-    "sha256_cert_fingerprints": ["F5:08:9F:8A:D4:C8:4A:15:6D:0A:B1:3F:61:96:BE:C7:87:8C:DE:05:59:92:B2:A3:2D:05:05:A5:62:A5:2F:34"] 
+    "sha256_cert_fingerprints": ["40:52:70:B7:31:13:CC:89:4F:25:4E:B9:0E:FB:CE:94:CA:51:CB:69:94:0C:B9:8D:7A:0F:23:BA:90:63:08:2C"] 
   }
 }]
